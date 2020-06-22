@@ -1,2 +1,2 @@
-# azul
+# Azul
 Azul board game
